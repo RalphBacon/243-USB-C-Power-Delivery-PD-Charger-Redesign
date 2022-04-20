@@ -1,6 +1,6 @@
 # #243 USB-C Power Delivery (PD) Charger Redesign
 ### My new phone is more sophisticated when it comes to charging requirements   
-#### - and my Smart Phone Charger can't cope.
+#### <ul>- and my Smart Phone Charger can't cope.</ul>
 
 ![vlcsnap-2022-04-20-13h12m07s993](https://user-images.githubusercontent.com/20911308/164229162-02005c98-6012-44a3-b5b5-ee93acb96452.png)  
 
